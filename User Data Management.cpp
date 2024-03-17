@@ -166,7 +166,6 @@ int main(){
         cout<<"wanna countinue? : (Y/N)\n";
         cin>>countinue;
     }
-    
     return crd;
 }
 
